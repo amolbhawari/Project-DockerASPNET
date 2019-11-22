@@ -33,9 +33,4 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: Docker@2
-  inputs:
-    containerRegistry: 'AzureContainerRegistry'
-    repository: 'aspnetv1'
-    command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+'
