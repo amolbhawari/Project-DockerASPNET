@@ -32,9 +32,10 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
 - task: Docker@2
   inputs:
     containerRegistry: 'amolbhawariDocker'
-    repository: 'amolbhawari/dockeraspnet1'
-    command: 'buildAndPush'
+    repository: 'amolbhawari/dockerASPNET'
+    command: 'build'
     Dockerfile: '**/Dockerfile'
