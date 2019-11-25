@@ -36,6 +36,6 @@ steps:
 - task: Docker@2
   inputs:
     containerRegistry: 'amolbhawariDocker'
-    repository: 'amolbhawari/dockerASPNET'
-    command: 'build'
+    repository: 'amolbhawari/dockeraspnetcorewebapp'
+    command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
