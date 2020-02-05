@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Project-DockerASPNET\\Project-DockerASPNET.csproj": {}
+    "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Project-DockerASPNET\\Project-DockerASPNET.csproj": {
+    "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
+        "projectUniqueName": "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
         "projectName": "Project-DockerASPNET",
-        "projectPath": "C:\\Code\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
+        "projectPath": "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
         "packagesPath": "C:\\Users\\amol.bhawari\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Project-DockerASPNET\\obj\\",
+        "outputPath": "C:\\devops\\Project-DockerASPNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amol.bhawari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
