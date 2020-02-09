@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
+      "projectUniqueName": "C:\\Users\\amol.bhawari\\Desktop\\sample code\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
       "projectName": "Project-DockerASPNET",
-      "projectPath": "C:\\devops\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
+      "projectPath": "C:\\Users\\amol.bhawari\\Desktop\\sample code\\Project-DockerASPNET\\Project-DockerASPNET.csproj",
       "packagesPath": "C:\\Users\\amol.bhawari\\.nuget\\packages\\",
-      "outputPath": "C:\\devops\\Project-DockerASPNET\\obj\\",
+      "outputPath": "C:\\Users\\amol.bhawari\\Desktop\\sample code\\Project-DockerASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amol.bhawari\\AppData\\Roaming\\NuGet\\NuGet.Config",
